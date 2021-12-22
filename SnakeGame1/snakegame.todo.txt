@@ -1,0 +1,5 @@
+TODO
+create ui for snakegame
+	add speed settings
+	start button
+	add color settings
