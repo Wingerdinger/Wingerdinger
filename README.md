@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wingerdinger
 - 👀 I’m interested in Learning how to make virtual instruments and machine learning
-- 🌱 I’m currently learning Java
+- 🌱 I know Java and C
 - 💞️ I’m looking to collaborate on Games and machine learning programs
 - 📫 How to reach me wingmp153@gmail.com
 
